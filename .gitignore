@@ -1,6 +1,8 @@
 /.env
 /.vscode
 /config/*
+!/config/vhosts/
+!/config/vhosts/**
 /data/*
 /logs/*
 /www/**
